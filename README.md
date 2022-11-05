@@ -7,3 +7,9 @@
 **My Projects:**
 
 HockeyWare - A Private 1.12.2 Minecraft Utility Mod
+
+---
+
+**Contact:**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/981612660456050718)](https://discord.com/users/981612660456050718)
