@@ -6,7 +6,7 @@
 
 **My Projects:**
 
-HockeyWare - A Private 1.12.2 Minecraft Utility Mod
+Lightning Client
 
 ---
 
