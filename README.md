@@ -6,8 +6,6 @@
 
 **My Projects:**
 
-Lightning Client
-
 ---
 
 **Contact:**
