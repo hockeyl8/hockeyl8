@@ -6,4 +6,6 @@
 
 **Contact:**
 
+https://t.me/hockeyl8 (prefered)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1082628087046488104)](https://discord.com/users/1082628087046488104)
